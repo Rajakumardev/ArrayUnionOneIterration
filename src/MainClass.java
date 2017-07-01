@@ -26,8 +26,7 @@ public class MainClass {
 					disp++;
 				}
 			}
-		}
-		for(int i=0;i<res.length-disp;i++)
 			printLn(""+res[i]);
+		}			
 	}
 }
